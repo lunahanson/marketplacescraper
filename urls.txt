@@ -1,0 +1,10 @@
+{
+"user": "user_email",
+"urls": {
+"url1": "https://www.facebook.com/marketplace/vancouver/search/?query=couches",
+"url2": "https://www.facebook.com/marketplace/vancouver/search?itemCondition=new&query=couches&exact=false",
+"url3": "https://www.facebook.com/marketplace/111399695553975/search?query=books",
+"url4": "https://www.facebook.com/marketplace/111399695553975/search?query=dresser",
+"url5": "https://www.facebook.com/marketplace/111399695553975/search?query=bookshelf"
+}
+}
